@@ -1,6 +1,6 @@
 # Chekken 9
 
-Welcome to **Chekken 9**! A fun, high-energy two-player fighting game inspired by classic arcade fighters. Battle your friends and see who has the best reflexes!
+Welcome to **Chekken 9**! A fun, high-energy two-player fighting game with chatbot, inspired by classic Tekken series. Battle your friends and see who has the best reflexes!
 
 ## Gameplay
 The objective is simple: **knock out your opponent** by reducing their health to zero. Dodge, jump, and strike your way to victory!
